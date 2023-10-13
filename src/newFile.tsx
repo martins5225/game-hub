@@ -1,7 +1,7 @@
 import { ChakraProvider, ColorModeScript } from '@chakra-ui/react';
 
 import App from './App.tsx';
-import { QueryClientProvider } from 'react-query';
+import { QueryClientProvider } from '@tanstack/react-query';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { queryClient } from './main.tsx';
