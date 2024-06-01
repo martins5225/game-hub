@@ -1,6 +1,6 @@
 # Game Hub Application
 
-Welcome to the Game Hub, your gateway to an exciting world of gaming!
+Welcome to the Game Hub Application, your gateway to an exciting world of gaming!
 
 ## Overview
 
